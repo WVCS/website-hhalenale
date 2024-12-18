@@ -1,0 +1,56 @@
+<html>
+  <head>
+   <ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+
+  </head>
+  <body>
+    <center>
+    <h3> Projects </h3>
+      <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/wB5W7f7AM7-JGCkP0krtl6BsDlOpW3mKU1ebT48pODA/embed?nosource"></iframe>
+      
+     <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/EjqGyncKwfoH0j7kxFg4r3wlHlZko7MORrJo1VWkMOw/embed"></iframe>
+
+      </body>
+</html>
+
+body {
+  background-color: lightblue;
+}
+
+h3 {
+  color: beige;
+  font-size: 250%;
+  text-decoration-line: overline underline;
+  text-decoration-style: dashed;
+  text-decoration-color: blue;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px 7px red;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #2A628F;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
